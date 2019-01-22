@@ -1,0 +1,73 @@
+body {
+  background-color: #f7f8f9M;
+}
+
+p{
+  align: center;
+  position: absolute;
+}
+
+
+div{
+  border: 3px #cccccc solid;
+  background-color: #f4f5f7;
+  border-radius: 30px 30px;
+  position: absolute;
+	left: 12.5%;
+	right: 12.5%;
+	max-width: 50em;
+  margin: 0 auto;
+}
+
+
+.perfil{
+	border: solid 3px black;
+	width: 200px;
+	height: 250px;
+	position: absolute;
+	top: 80px;
+  left: 150px;
+}
+
+.datos{
+  height: 400px;
+  max-width: 1000px;
+  top: 5%;
+}
+
+.p_datos{
+    align: center;
+    position: absolute;
+  	left: 50%;
+  	right: 12.5%;
+  	max-width: 50em;
+}
+
+
+.academica{
+  height: 300px;
+  max-width: 1000px;
+  top: 75%;
+}
+
+.p_academica{
+  align: center;
+  position: absolute;
+  left: 12.5%;
+  right: 12.5%;
+  max-width: 50em;
+}
+
+.habilidades{
+  height: 350px;
+  max-width: 1000px;
+  top: 130%;
+}
+
+.u_habilidades{
+  align: center;
+  position: absolute;
+  left: 12.5%;
+  right: 12.5%;
+  max-width: 50em;
+}
